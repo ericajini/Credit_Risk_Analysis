@@ -34,7 +34,7 @@ The overall accuracy for the ROS model was 51.6%.
 
 The precision score for high risk was only at 1% and the preicision score for low risk was 100%. The recall score for high risk was 69% while the recall score for low risk was 58%. The f1 score for high risk was 2% and 74% for low risk. 
 
-![SMOTEENN]https://github.com/ericajini/Credit_Risk_Analysis/blob/main/SMOTEENN.png()
+![SMOTEENN](https://github.com/ericajini/Credit_Risk_Analysis/blob/main/SMOTEENN.png)
 
 ### Balanced Random Forest Classifier
 The overall accuracy score for the ROS model was 78.8%. 
